@@ -1,2 +1,2 @@
 # supermarket_sales_prediction
-this is a ipynb notebook for a kaggle problem
+this is a ipynb notebook solution for a kaggle problem
